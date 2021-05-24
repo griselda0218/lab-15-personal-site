@@ -16,7 +16,7 @@ h1 {
 }
 
 .hero-image {
-    background-image: url("geometricimage.v01.jpg");
+    background-image: url("geometricimage.v01.jpg"); /* from https://www.vecteezy.com/vector-art/1370792-abstract-background-with-geometric-shapes */
     height: 30%;
     background-position: center;
     background-repeat: no-repeat;
